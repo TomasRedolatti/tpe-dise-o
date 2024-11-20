@@ -18,4 +18,4 @@ Este repositorio documenta el proceso de diseño arquitectónico siguiendo la me
 2. *Iteración 2*
    - 1.a [ADR 006: Iteración 2](adr/006-iteracion-2.md)
 2. *Iteración 3*
-   - 1.a [ADR 007: Iteración 3](adr/006-iteracion-3.md)
+   - 1.a [ADR 007: Iteración 3](adr/007-iteracion-3.md)
