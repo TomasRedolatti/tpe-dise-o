@@ -19,4 +19,4 @@ Este repositorio documenta el proceso de diseño arquitectónico siguiendo la me
    - 2.a [ADR 006: Iteración 2](adr/006-iteracion-2.md)
 3. *Iteración 3*
    - 3.a [ADR 007: Iteración 3](adr/007-iteracion-3.md)
-   - 3.b [ADR 008: Cuestionamiento y Alternativas - Iteración 3](adr/008-cuestionamiento-del-arquitecto-cognitivo-iteración3.md)
+   - 3.b [ADR 008: Cuestionamiento y Alternativas - Iteración 3](adr/008-cuestionamiento-del-arquitecto-cognitivo-iteración-3.md)
