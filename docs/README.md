@@ -15,3 +15,5 @@ Este repositorio documenta el proceso de diseño arquitectónico siguiendo la me
 1. *Iteración 1*
    - 1.a [ADR 004: Iteración 1](adr/004-iteracion-1.md)
    - 1.b [ADR 005: Cuestionamientos y Alternativas - Iteración 1](adr/005-cuestionamientos-y-alternativas-para-la-iteración-1.md)
+2. *Iteración 2*
+   - 1.a [ADR 006: Iteración 2](adr/006-iteracion-2.md)
