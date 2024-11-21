@@ -18,3 +18,7 @@ La gestión de incidencias, especialmente en el sistema de reparto, podría ser 
 
 ### 5. Refinamiento de la Gestión de Pagos:
 El sistema de pagos se integra con una pasarela externa (MercadoLibre). Sin embargo, en el futuro, podría ser útil implementar un sistema de **gestión de pagos interno** con mayor flexibilidad, como la integración de **blockchain** para transacciones seguras y transparentes. Esta solución podría mejorar la trazabilidad de los pagos y reducir la dependencia de terceros.
+
+## Conclusión:
+Las decisiones tomadas hasta ahora forman una base sólida para la migración hacia una arquitectura de microservicios. Sin embargo, las áreas mencionadas podrían ser exploradas y optimizadas a futuro para garantizar que el sistema sea escalable, flexible y capaz de adaptarse a las crecientes necesidades de la empresa. Las mejoras propuestas no son estrictamente necesarias de inmediato, pero deberían ser consideradas como parte de un proceso de evolución continua del sistema para adaptarse a las demandas del mercado y asegurar su sostenibilidad a largo plazo.
+
