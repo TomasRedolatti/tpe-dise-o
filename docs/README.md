@@ -22,3 +22,5 @@ Este repositorio documenta el proceso de diseño arquitectónico siguiendo la me
    - 3.b [ADR 008: Cuestionamiento y Alternativas - Iteración 3](adr/008-cuestionamiento-del-arquitecto-cognitivo-iteración-3.md)
 4. *Iteración 4*
    - 4.a [ADR 009: Iteración 4](adr/009-iteracion-4.md)
+5. ***Conclusión Final***
+   - 5.a [ADR 010: Revisión General del Arquitecto Cognitivo y el Arquitecto Senior](adr/010-revision-general-arqs-cognitivo-senior.md)
