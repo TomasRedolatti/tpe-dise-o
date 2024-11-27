@@ -8,3 +8,5 @@ Este repositorio documenta el proceso de diseño arquitectónico siguiendo la me
  - '/arquitectura': Una vista integrada basada en una arquitectura de microservicios que unifica las decisiones tomadas.
  - '/requerimientos': Detalla la captura de requerimientos de calidad y funcionales que el sistema requiere
  - '/src': Código fuente del proyecto. (Simulado)
+
+Link a la documento padre: https://docs.google.com/document/d/1IN4AtBhagmgkNIOXOaRLGdb9gWfqN551Kkms2ZVPjxY/edit?usp=sharing
